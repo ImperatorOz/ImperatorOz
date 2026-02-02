@@ -2,7 +2,7 @@
 - My name is Anoliefo Augustus.
 - 👀 My interests include Cloud DevOps, Cloud Application Engineering, Cloud Solution Architecture, and Cloud Infrastructure Management.
 - I’m looking to collaborate and contribute on a variety of technologies and subjects.
-- My top used stacks are Python, AWS, Terraform, Ansible, GCP, Jenkins, Docker, Kubernetes, Microservices, Linux, Git, Markdown.
+- My top used stacks are Python, Bash, Go, AWS, Azure, Terraform, Ansible, GitHub Actions, Jenkins, Docker, Kubernetes, Argo CD, Helm, Kustomize, Linux, Git, Markdown.
 
 ### Connect with me  
 
